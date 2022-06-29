@@ -10,6 +10,7 @@ Shawn's summaries:
 Useful Links:
 - Useful Leetcode: https://leetcode.com/discuss/general-discussion/665604/Important-and-Useful-links-from-all-over-the-LeetCode
 - Binary Search: https://leetcode.com/discuss/general-discussion/786126/python-powerful-ultimate-binary-search-template-solved-many-problems
+- Dynamic Programming: https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns
 
 ## Python
 
