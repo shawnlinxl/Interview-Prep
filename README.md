@@ -15,5 +15,3 @@ Useful Links:
 ## Python
 
 https://github.com/amirgamil/Python-Interview-Tricks/blob/main/README.md
-
-test write access.
